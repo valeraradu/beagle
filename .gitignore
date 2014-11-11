@@ -1,0 +1,9 @@
+/.settings
+/.project
+/.classpath
+/pom.properties
+/target
+/.externalToolBuilders/
+/maven-eclipse.xml
+/.idea
+*.iml
