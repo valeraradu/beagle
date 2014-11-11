@@ -6,6 +6,7 @@ your own private serach engine
 ## Requirements
 
 1.Tomcat
+2.maven
 
 ## Installation
 
