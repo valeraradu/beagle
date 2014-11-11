@@ -19,4 +19,4 @@ your own private serach engine
 6. open `http://localhost:8080/beagle-0.3.0-SNAPSHOT/index.jsp` to search indexed pages
  
 
-please send you feedback at valeraradu@hotmail.com
+please send your feedback at valeraradu@hotmail.com
